@@ -1,1 +1,1 @@
-info1: Testing Pillar
+info: Testing Pillar
